@@ -1,5 +1,11 @@
-import React from 'react';
-import ReactDOM from 'react-dom';
-import App from './App';
+import React from "react";
+import ReactDOM from "react-dom";
+import Calendar from "./components/calendar";
+import { Months } from "./components/Months";
 
-ReactDOM.render(<App />, document.getElementById('root'));
+function App() {
+    return <Months />;
+}
+
+const rootElement = document.getElementById("root");
+ReactDOM.render(<App />, rootElement);

@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/calendar_hackaton/static/css/main.8b573827.chunk.css",
-    "main.js": "/calendar_hackaton/static/js/main.f2ad1bfa.chunk.js",
-    "main.js.map": "/calendar_hackaton/static/js/main.f2ad1bfa.chunk.js.map",
+    "main.css": "/calendar_hackaton/static/css/main.92057551.chunk.css",
+    "main.js": "/calendar_hackaton/static/js/main.fc8e93c0.chunk.js",
+    "main.js.map": "/calendar_hackaton/static/js/main.fc8e93c0.chunk.js.map",
     "runtime-main.js": "/calendar_hackaton/static/js/runtime-main.ab362a05.js",
     "runtime-main.js.map": "/calendar_hackaton/static/js/runtime-main.ab362a05.js.map",
-    "static/js/2.9cc78a5d.chunk.js": "/calendar_hackaton/static/js/2.9cc78a5d.chunk.js",
-    "static/js/2.9cc78a5d.chunk.js.map": "/calendar_hackaton/static/js/2.9cc78a5d.chunk.js.map",
+    "static/js/2.7a8b61ef.chunk.js": "/calendar_hackaton/static/js/2.7a8b61ef.chunk.js",
+    "static/js/2.7a8b61ef.chunk.js.map": "/calendar_hackaton/static/js/2.7a8b61ef.chunk.js.map",
     "index.html": "/calendar_hackaton/index.html",
-    "precache-manifest.6757efdd51d080048647dc48138966c7.js": "/calendar_hackaton/precache-manifest.6757efdd51d080048647dc48138966c7.js",
+    "precache-manifest.74c33e39ff6f5c68c9c566d37615103a.js": "/calendar_hackaton/precache-manifest.74c33e39ff6f5c68c9c566d37615103a.js",
     "service-worker.js": "/calendar_hackaton/service-worker.js",
-    "static/css/main.8b573827.chunk.css.map": "/calendar_hackaton/static/css/main.8b573827.chunk.css.map",
-    "static/js/2.9cc78a5d.chunk.js.LICENSE": "/calendar_hackaton/static/js/2.9cc78a5d.chunk.js.LICENSE"
+    "static/css/main.92057551.chunk.css.map": "/calendar_hackaton/static/css/main.92057551.chunk.css.map",
+    "static/js/2.7a8b61ef.chunk.js.LICENSE": "/calendar_hackaton/static/js/2.7a8b61ef.chunk.js.LICENSE"
   },
   "entrypoints": [
     "static/js/runtime-main.ab362a05.js",
-    "static/js/2.9cc78a5d.chunk.js",
-    "static/css/main.8b573827.chunk.css",
-    "static/js/main.f2ad1bfa.chunk.js"
+    "static/js/2.7a8b61ef.chunk.js",
+    "static/css/main.92057551.chunk.css",
+    "static/js/main.fc8e93c0.chunk.js"
   ]
 }

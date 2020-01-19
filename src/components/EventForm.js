@@ -1,8 +1,14 @@
 import React, { useState } from 'react';
 import PropTypes from 'prop-types';
 import { connect } from 'react-redux';
-import { getYear, getMonth, getDay, getEvents,
-    setEvents, setIsShownEventForm } from '../redux/store';
+import {
+    getYear,
+    getMonth,
+    getDay,
+    getEvents,
+    setEvents,
+    setIsShownEventForm
+} from '../redux/store';
 
 const EventForm = ({
                        year,

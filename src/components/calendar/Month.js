@@ -1,7 +1,19 @@
 import React from 'react';
 import { connect } from 'react-redux';
 import cn from 'classnames';
-import { getDay, getMonth, getYear, getWeek, getIsShownEventForm, setIsShownEventForm, setDay, getEvents, getEventSelectorValue, setMonth } from '../../redux/store';
+import {
+    getDay,
+    getMonth,
+    getYear,
+    getWeek,
+    getIsShownEventForm,
+    setIsShownEventForm,
+    setDay,
+    getEvents,
+    getEventSelectorValue,
+    setMonth
+} from '../../redux/store';
+
 import { namesOfMonths, daysNames } from '../../redux/constants';
 
 const Month = ({ month, year, week, setDay, setIsShownEventForm, events, eventSelectorValue, setMonth }) => {

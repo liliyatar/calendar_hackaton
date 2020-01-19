@@ -2,9 +2,18 @@ import React from 'react';
 import PropTypes from 'prop-types';
 import { connect } from 'react-redux';
 import {
-    getDay, getMonth, getYear, setYear, setDay, setMonth, getWeek, setWeek,
-    setEventSelectorValue, getEventSelectorValue,
+    getDay,
+    getMonth,
+    getYear,
+    setYear,
+    setDay,
+    setMonth,
+    getWeek,
+    setWeek,
+    setEventSelectorValue,
+    getEventSelectorValue,
 } from '../redux/store';
+
 import { namesOfMonths, years } from '../redux/constants';
 
 const DateForm = ({

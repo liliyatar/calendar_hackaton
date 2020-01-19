@@ -81,12 +81,17 @@ const EventForm = ({
                   <label htmlFor="meeting">Meeting</label>
               </div>
               <button
+                  className="form__back"
                   type="button"
                   onClick={goBack}
               >
                   Go back
               </button>
-              <button type="submit">Add event</button>
+              <button
+                  className="form__add"
+                  type="submit">
+                  Add event
+              </button>
           </form>
       </div>
   );

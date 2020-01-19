@@ -33,6 +33,13 @@ body {
 .form__back {
   background-color: lightsalmon;
 }
+.form__radio {
+  font-size: 20px;
+  margin-right: 5px;
+}
+.form__radio:last-child {
+  margin-right: 0;
+}
 
 .buttons {
   display: flex;

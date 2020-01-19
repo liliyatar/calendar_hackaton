@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/calendar_hackaton/static/css/main.fcb9b608.chunk.css",
-    "main.js": "/calendar_hackaton/static/js/main.aab163f6.chunk.js",
-    "main.js.map": "/calendar_hackaton/static/js/main.aab163f6.chunk.js.map",
+    "main.css": "/calendar_hackaton/static/css/main.95500d2b.chunk.css",
+    "main.js": "/calendar_hackaton/static/js/main.59ec7e8b.chunk.js",
+    "main.js.map": "/calendar_hackaton/static/js/main.59ec7e8b.chunk.js.map",
     "runtime-main.js": "/calendar_hackaton/static/js/runtime-main.ab362a05.js",
     "runtime-main.js.map": "/calendar_hackaton/static/js/runtime-main.ab362a05.js.map",
     "static/js/2.7646560a.chunk.js": "/calendar_hackaton/static/js/2.7646560a.chunk.js",
     "static/js/2.7646560a.chunk.js.map": "/calendar_hackaton/static/js/2.7646560a.chunk.js.map",
     "index.html": "/calendar_hackaton/index.html",
-    "precache-manifest.0796da52e37d80464991e41119819694.js": "/calendar_hackaton/precache-manifest.0796da52e37d80464991e41119819694.js",
+    "precache-manifest.4bf4f3a2a10a12e6f24668167bbe9c7c.js": "/calendar_hackaton/precache-manifest.4bf4f3a2a10a12e6f24668167bbe9c7c.js",
     "service-worker.js": "/calendar_hackaton/service-worker.js",
-    "static/css/main.fcb9b608.chunk.css.map": "/calendar_hackaton/static/css/main.fcb9b608.chunk.css.map",
+    "static/css/main.95500d2b.chunk.css.map": "/calendar_hackaton/static/css/main.95500d2b.chunk.css.map",
     "static/js/2.7646560a.chunk.js.LICENSE": "/calendar_hackaton/static/js/2.7646560a.chunk.js.LICENSE"
   },
   "entrypoints": [
     "static/js/runtime-main.ab362a05.js",
     "static/js/2.7646560a.chunk.js",
-    "static/css/main.fcb9b608.chunk.css",
-    "static/js/main.aab163f6.chunk.js"
+    "static/css/main.95500d2b.chunk.css",
+    "static/js/main.59ec7e8b.chunk.js"
   ]
 }
